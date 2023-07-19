@@ -1,3 +1,4 @@
+-- Database model
 DROP DATABASE IF EXISTS Chatbot;
 
 CREATE DATABASE Chatbot;
